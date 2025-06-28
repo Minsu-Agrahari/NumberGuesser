@@ -37,9 +37,13 @@ A simple and interactive **Number Guessing Game** built with HTML, CSS, and Java
 ## 📂 Folder Structure
 
 NumberGuesser/
+
 ├── index.html       # Structure of the game
+
 ├── style.css        # Game styling
+
 ├── script.js        # JavaScript logic
+
 └── README.md        # Project documentation
 
 ---
